@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuration files with sensitive information
+config.py
+
+# Data loader or fetch scripts (if dynamically generated or sensitive)
+data_loader.py
+fetch_data.py
